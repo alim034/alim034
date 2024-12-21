@@ -23,8 +23,8 @@ Hello! I'm a **Java Developer**, **Web Developer**, and an avid learner passiona
 ---
 
 ## 📫 How to Reach Me  
-- 📧 **Email**: [alim034@example.com](mailto:alim034@example.com)  
-- 🌐 **LinkedIn**: [Mohammad Alim](https://www.linkedin.com/in/mohammad-alim)  
+- 📧 **Email**: [alimmohammad034@gmail.com]  
+- 🌐 **LinkedIn**: [https://www.linkedin.com/in/mohammad-alim-7a8a52289/]  
 
 ---
 
