@@ -18,7 +18,7 @@ Hello! I'm a **Java Developer**, **Web Developer**, and an avid learner passiona
 ## 💞️ I’m Looking to Collaborate On  
 - Java-based projects, including **backend development** and **software solutions**  
 - Web development projects utilizing **HTML**, **CSS**, **JavaScript**, and modern frameworks  
-- Innovative research and development in **Web 3.0**, **Blockchain**, and decentralized applications (dApps)  
+
 
 ---
 
@@ -63,6 +63,6 @@ An AI-powered solution for automating attendance management. Utilizes face recog
 
 ---
 
-> _"Code is like humor. When you have to explain it, it’s bad."_ – **Cory House**  
+
 
 Thank you for visiting my GitHub profile! Feel free to explore my repositories or connect with me for collaborations. 🚀  
