@@ -4,7 +4,7 @@
 Hello! I'm a **Java Developer**, **Web Developer**, and an avid learner passionate about creating impactful software solutions. With a strong foundation in **Java**, **SQL**, **HTML**, **CSS**, and **JavaScript**, I enjoy building responsive, user-friendly applications and exploring:  
 - **Web Development**: Crafting interactive and visually appealing user interfaces.  
 - **Backend Development**: Developing robust and scalable server-side solutions using Java and SQL.  
-- **Innovative Technologies**: Including **Web 3.0**, **DeFi**, and **Blockchain**, driving the future of tech.  
+ 
 
 ---
 
