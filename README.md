@@ -1,68 +1,50 @@
-# 👋 Hi, I’m @alim034 — Mohammad Alim  
+<h1 align="center">Hi 👋, I'm Mohammad Alim</h1>
+<h3 align="center">I am a Front-End Developer, aspiring to become a Full Stack Developer</h3>
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-## 👀 About Me  
-Hello! I'm a **Java Developer**, **Web Developer**, and an avid learner passionate about creating impactful software solutions. With a strong foundation in **Java**, **SQL**, **HTML**, **CSS**, and **JavaScript**, I enjoy building responsive, user-friendly applications and exploring:  
-- **Web Development**: Crafting interactive and visually appealing user interfaces.  
-- **Backend Development**: Developing robust and scalable server-side solutions using Java and SQL.  
- 
+- 🌱 I’m currently learning **Java (Data Structures and Algorithms), React.JS**
 
----
+- 💬 Ask me about **DSA, MySQL, Java**
 
-## 🌱 I’m Currently Learning  
-- Advanced **SQL Queries**: Triggers, table updates, and database optimization  
-- **Advanced Java**: Core Java, Object-Oriented Programming (OOP), and Data Structures & Algorithms (DSA) in Java  
-- Enhancing my expertise in **Web Development**: Modern frameworks, responsive design, and dynamic applications  
+- 📫 Email Address: **alimmohammad034@gmail.com**
 
----
-
-## 💞️ I’m Looking to Collaborate On  
-- Java-based projects, including **backend development** and **software solutions**  
-- Web development projects utilizing **HTML**, **CSS**, **JavaScript**, and modern frameworks  
-
-
----
-
-## 📫 How to Reach Me  
-- 📧 **Email**: [alimmohammad034@gmail.com]  
-- 🌐 **LinkedIn**: [https://www.linkedin.com/in/mohammad-alim-7a8a52289/]  
-
----
-
-## 🛠️ Technologies I Work With  
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" />
-  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-sql-mobile-app-development-flaticons-lineal-color-flat-icons.png" alt="SQL" />
-  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML" />
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" />
-  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" />
+<a href="https://www.linkedin.com/in/mohammad-alim-7a8a52289/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammad-alim" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/alimmohammad034" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mohammad-alim" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/md_alim/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mohammad-alim" height="30" width="40" /></a>
 </p>
 
-
----
-
-## 📚 Featured Projects  
-### 🚴 **Bike Rental Management System**  
-A modular system for managing bike rentals with a user-friendly interface and efficient database management.  
-
-### 🔊 **Text to Voice Converter**  
-A responsive web app using **HTML**, **CSS**, and **JavaScript**, designed to enhance accessibility and improve user interaction.  
-
-### 📸 **Attendance Management System using Face Recognition**  
-An AI-powered solution for automating attendance management. Utilizes face recognition for accurate, real-time verification, ensuring efficiency and security in attendance systems.  
-
----
-
-## 🏆 Highlights  
-- President of **Coding Club PRPCEM**
-- Core Team Member at **Google Developer Group (GDG)**
-- **NPTEL Elite Certifications**: Programming in Java, The Joy of Computing using Python, Database Management System  
-- **5⭐ Java** on HackerRank
-- **3⭐ SQL** on HackerRank  
-
-
----
-
-
-
-Thank you for visiting my GitHub profile! Feel free to explore my repositories or connect with me for collaborations. 🚀  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+</a> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+</a> 
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+</a> 
+<a href="https://www.java.com" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+</a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+</a> 
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+</a> 
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+</a> 
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+</a> 
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/> 
+</a> 
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="40" height="40"/> 
+</a> 
+</p>
