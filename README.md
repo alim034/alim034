@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammad Alim</h1>
 <h3 align="center">A Front-End Developer aspiring to become a Full Stack Developer</h3>
 
-<img align="right" alt="Coding GIF" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
+<img align="right" alt="Coding Gif" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
 - 🌱 I’m currently learning **Java (Data Structures and Algorithms), React.js**
 - 💬 Ask me about **DSA, MySQL, Java**
