@@ -16,7 +16,7 @@
   <a href="https://www.linkedin.com/in/mohammad-alim-7a8a52289/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" />
   </a>
-  <a href="https://www.instagram.com/justalim_?igsh=bmtpdG9zcGd2ZjBw" target="blank">
+  <a href="https://www.instagram.com/_justalim__/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram Profile" height="30" width="40" />
   </a>
   <a href="https://leetcode.com/u/md_alim/" target="blank">
