@@ -19,7 +19,7 @@
   <a href="https://www.instagram.com/_justalim__/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram Profile" height="30" width="40" />
   </a>
-  <a href="[https://leetcode.com/u/md_alim/](https://leetcode.com/u/mohammad_alim/)" target="blank">
+  <a href="[https://leetcode.com/u/md_alim/]([https://leetcode.com/u/mohammad_alim/](https://leetcode.com/u/mohammad_alim/))" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode Profile" height="30" width="40" />
   </a>
 </p>
