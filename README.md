@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohammad Alim</h1> 
 <h3 align="center">A Front-End Developer aspiring to become a Full Stack Developer</h3>
 
-<img align="right" alt="Futuristic Coding" width="400" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
-
+<img align="right" alt="Coding Loop" width="400" src="https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif">
 
 
 
