@@ -1,14 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammad Alim</h1> 
 <h3 align="center">A Front-End Developer aspiring to become a Full Stack Developer</h3>
 
-<div style="flex: 1; text-align: center;">
-      <img src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" 
-           alt="profile" 
-           style="border-radius: 50%; width: 250px; height: 250px; object-fit: cover; box-shadow: 0 0 25px rgba(0,0,0,0.4);">
-    </div>
-
-
-
+<img align="right" alt="Coding Gif" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
 
 
