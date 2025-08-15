@@ -2,7 +2,8 @@
 <h3 align="center">A Front-End Developer aspiring to become a Full Stack Developer</h3>
 
 
-<img align="right" alt="Coding Loop" width="400" src="https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif">
+<img align="right" alt="Developer Desk" width="400" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif">
+
 
 
 
