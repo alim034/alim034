@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mohammad Alim</h1> 
 <h3 align="center">A Front-End Developer aspiring to become a Full Stack Developer</h3>
 
-
-<img align="right" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" width="300px" height="auto"/>
+<div style="flex: 1; text-align: center;">
+      <img src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" 
+           alt="profile" 
+           style="border-radius: 50%; width: 250px; height: 250px; object-fit: cover; box-shadow: 0 0 25px rgba(0,0,0,0.4);">
+    </div>
 
 
 
