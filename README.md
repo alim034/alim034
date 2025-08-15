@@ -2,7 +2,9 @@
 <h3 align="center">A Front-End Developer aspiring to become a Full Stack Developer</h3>
 
 
-<img align="right" alt="Developer Desk" width="400" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif">
+<img src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" 
+     style="float: right; width: 300px; height: auto;" />
+
 
 
 
